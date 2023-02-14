@@ -6,4 +6,4 @@ git status
 git add
 git commit
 ````
-![привет привет](https://i.ytimg.com/vi/Vv1WN00NMa0/maxresdefault.jpg)
+![привет привет](https://media.tenor.com/nABJfmuLCDAAAAAd/arthas-papich.gif)
