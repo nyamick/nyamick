@@ -6,4 +6,4 @@ git status
 git add
 git commit
 ````
-![привет привет](https://media.tenor.com/nABJfmuLCDAAAAAd/arthas-papich.gif)
+![привет привет](https://tenor.com/ru/view/arthas-papich-zavod-walking-gif-15720711)
